@@ -60,8 +60,8 @@ const sinhNhatData = [
   },
   {
     ten: "Minh A",
-    ngay: 20,
-    thang: 7,
+    ngay: 15,
+    thang: 1,
   },
   {
     ten: "Quân",
@@ -85,8 +85,8 @@ const sinhNhatData = [
   },
   {
     ten: "Khiêm",
-    ngay: 22,
-    thang: 1,
+    ngay: 3,
+    thang: 5,
   },
 ];
 const doanSessions = new Map();
