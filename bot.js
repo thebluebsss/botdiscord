@@ -142,7 +142,7 @@ client.on("messageCreate", async (msg) => {
     return msg.reply("sữa nhất ");
   }
   if (msg.content === "!long") {
-    return msg.reply("sữa nhị ");
+    return msg.reply("sữa nhị - 2-0 lai bâng không gỡ, khó chịu đến cuối đời ");
   }
   if (msg.content === "!khanh") {
     return msg.reply("sữa ba, primmie rep 1:1  ");
@@ -160,6 +160,15 @@ client.on("messageCreate", async (msg) => {
   if (msg.content === "!khang") {
     return msg.reply("mâm 2, no aim, hlv tactics(mọi thể loại game) ");
   }
+  if (msg.content === "!thanh") {
+    return msg.reply(
+      "người xứng đáng thay thế fl.xb, thông thạo S tất cả vị tướng, tư duy game đỉnh thực sự",
+    );
+  }
+  if (msg.content === "!mem") {
+    return msg.reply("trình ngang thanh nhưng may mắn hơn (fact)");
+  }
+
   //doanso
   if (msg.content.startsWith("!doanso")) {
     const args = msg.content.split(" ");
