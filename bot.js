@@ -162,7 +162,7 @@ client.on("messageCreate", async (msg) => {
   }
   if (msg.content === "!thanh") {
     return msg.reply(
-      "người xứng đáng thay thế fl.xb, thông thạo S tất cả vị tướng, tư duy game đỉnh thực sự",
+      "người xứng đáng thay thế fl.xb, thông thạo S tất cả vị tướng, tư duy game đỉnh thực sự, càng lớn càng đẹp trai",
     );
   }
   if (msg.content === "!mem") {
